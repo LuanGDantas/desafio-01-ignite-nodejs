@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "laungdantas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.5"
+  }
 }
